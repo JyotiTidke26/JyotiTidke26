@@ -14,7 +14,7 @@ I'm **Jyoti Tidke**, a passionate **Data Scientist** with a unique journey from 
 
 - **Programming:** Python, SQL
 - **Data Science & ML:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Machine Learning, Deep Learning, Computer Vision
-- **Visualization:** Tableau, Power BI
+- **Visualization:** Tableau, Power BI, Microsoft Excel
 - **Engineering Tools:** C++, Ideas, AutoCAD, ANSYS
 
 ---
