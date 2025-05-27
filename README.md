@@ -53,12 +53,5 @@ A computer vision project where I fine-tuned a ResNet50 deep learning model on t
 
 ---
 
-**Let's connect and explore the world of data together!**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/JyotiTidke26/)
-
----
-
 *Best regards,*  
 *Jyoti Tidke*
