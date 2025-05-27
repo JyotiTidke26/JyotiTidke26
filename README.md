@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**JyotiTidke26/JyotiTidke26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Jyoti Tidke**, a passionate **Data Scientist** with a unique journey from Mechanical Engineering education to the world of AI and analytics.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 Profession/Role
+
+**Data Scientist | Former Mechanical Engineering Educator**
+
+---
+
+## 🚀 Top Skills & Technologies
+
+- **Programming:** Python, SQL
+- **Data Science & ML:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Machine Learning, Deep Learning, Computer Vision
+- **Visualization:** Tableau, Power BI
+- **Engineering Tools:** C++, Ideas, AutoCAD, ANSYS
+
+---
+
+## 🧑‍🎓 About Me
+
+I’m a Data Scientist with a strong foundation in analytical thinking, problem-solving, and technical education. After spending eight years as a Mechanical Engineering educator, I transitioned into data science to pursue my passion for data-driven innovation.
+
+I specialize in:
+- **Machine Learning & Deep Learning**
+- **Data Visualization**
+- **Computer Vision**
+- **Time Series**
+
+
+My engineering background enables me to approach complex problems methodically, while my curiosity and love for learning keep me exploring the latest in AI and data technologies. I'm particularly interested in applications of computer vision and predictive modeling to solve real-world challenges.
+
+---
+
+## 🌟 Featured Project
+
+### 🖼️ [CIFAR-10 Image Classification with ResNet50 & Transfer Learning](#)
+
+A computer vision project where I fine-tuned a ResNet50 deep learning model on the CIFAR-10 dataset. This project demonstrates my skills in:
+- Transfer learning
+- Model fine-tuning
+- Real-world image classification tasks
+
+*Want to know more? [Check out the project!](#)*
+
+---
+
+## 🎬 Fun Facts
+
+- I love **watching films** and **listening to songs**—great ways to recharge and stay inspired!
+
+---
+
+**Let's connect and explore the world of data together!**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/JyotiTidke26/)
+
+---
+
+*Best regards,*  
+*Jyoti Tidke*
