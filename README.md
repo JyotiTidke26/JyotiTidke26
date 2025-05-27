@@ -36,14 +36,12 @@ My engineering background enables me to approach complex problems methodically, 
 
 ## 🌟 Featured Project
 
-### 🖼️ [CIFAR-10 Image Classification with ResNet50 & Transfer Learning](#)
+### 🖼️ [CIFAR-10 Image Classification with ResNet50 & Transfer Learning](https://github.com/JyotiTidke26/cifar10-resnet50-transfer-learning)
 
 A computer vision project where I fine-tuned a ResNet50 deep learning model on the CIFAR-10 dataset. This project demonstrates my skills in:
 - Transfer learning
 - Model fine-tuning
 - Real-world image classification tasks
-
-*Want to know more? [Check out the project!](#)*
 
 ---
 
